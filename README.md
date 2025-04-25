@@ -2,6 +2,10 @@
 
 A simple and interactive exchange rate calculator built with HTML, CSS, and JavaScript. This project allows users to convert between different currencies in real-time using live exchange rates.
 
+Project is deployed at https://exchange-rate-calculator-dun.vercel.app/.
+
+<img src="./img/screenshot.png">
+
 ## Features
 
 - **Currency Selection**: Choose from a wide range of currencies for conversion.
